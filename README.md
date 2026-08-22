@@ -12,6 +12,7 @@ This repository contains a modular industrial visual inspection system with real
   - `spc.py` - SPC engine (Cp/Cpk/Pp/Ppk, control limits, WECO rules).
   - `camera.py` - Threaded video capture helper.
   - `conveyor_sim.py` - Conveyor simulator with photo-eye trigger.
+- Hardware integration checklist and wiring guidance: see `docs/HARDWARE.md`
 - `matlab/` - MATLAB helper scripts (`spc_analysis.m`, `inspect_part.m`) for teams using MATLAB.
 - `tests/` - Unit tests (`pytest`).
 
