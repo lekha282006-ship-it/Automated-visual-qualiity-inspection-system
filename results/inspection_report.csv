@@ -1,0 +1,6 @@
+Image,Status,Reason,Annotated File
+chipped_part.png,FAIL,"surface defect, 654 deviant px",results\annotated_chipped_part.png
+good_part.png,PASS,within tolerance,results\annotated_good_part.png
+oversized_part.png,FAIL,size deviation 44.0%,results\annotated_oversized_part.png
+scratched_part.png,FAIL,"surface defect, 160 deviant px",results\annotated_scratched_part.png
+undersized_part.png,FAIL,size deviation -36.0%,results\annotated_undersized_part.png
